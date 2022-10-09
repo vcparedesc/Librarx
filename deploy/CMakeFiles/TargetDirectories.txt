@@ -1,0 +1,4 @@
+/home/victor/Librarx/deploy/CMakeFiles/rebuild_cache.dir
+/home/victor/Librarx/deploy/CMakeFiles/edit_cache.dir
+/home/victor/Librarx/deploy/CMakeFiles/Librarx.dir
+/home/victor/Librarx/deploy/CMakeFiles/Librarx_autogen.dir
